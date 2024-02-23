@@ -1,6 +1,6 @@
 # Coffee and Cookies Button
 
-This simple HTML and CSS code creates a stylish button for a "Buy me a coffee" feature. 
+This simple HTML and CSS code creates a stylish button for a "Buy me a coffee" feature . 
 
 ## Table of Contents
 - [Preview](#preview)
